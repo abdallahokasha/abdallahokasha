@@ -6,9 +6,7 @@
     <a href="https://stackoverflow.com/users/5863487/abdallah-okasha?tab=profile"><img src="https://img.shields.io/badge/stackoverflow-%230177B5?logo=stackoverflow"/></a>
 </p>
   
-I'm a geek software engineer who loves learning new technologies 
-
-I mainly use C# and JS but am flexible and can use any language🕺
+I'm a geek software engineer who loves learning new technologies. I mainly use C# and JS but am flexible and can use any language🕺
 
 - I'm a Backend Engineer [@trella-app](https://www.trella.app/)
 - I love music 🎶 and coffee ☕️
