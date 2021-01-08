@@ -1,5 +1,5 @@
 
-### Hi there 👋  I am [Abdallah](https://www.linkedin.com/in/abdallah-okasha/ "https://www.linkedin.com/in/abdallah-okasha/") you can call me Okasha 😁
+### Hi 👋  I am [Abdallah](https://www.linkedin.com/in/abdallah-okasha/ "https://www.linkedin.com/in/abdallah-okasha/") you can call me Okasha 😁
 
 <p>
     <a href="https://www.linkedin.com/in/abdallah-okasha/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
