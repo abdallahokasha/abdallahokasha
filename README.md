@@ -6,7 +6,7 @@
     <a href="https://stackoverflow.com/users/5863487/abdallah-okasha?tab=profile"><img src="https://img.shields.io/badge/stackoverflow-%230177B5?logo=stackoverflow&logoColor=white""/></a>
 </p>
   
-I'm a geek software engineer who loves learning new technologies. 
+I'm a geek software engineer who loves learning and applying best practices.
 
 I am using Scala, JS, C# and flexible for using any other languages/technologies 🕺
 
